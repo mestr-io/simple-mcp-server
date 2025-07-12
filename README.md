@@ -13,9 +13,9 @@ This setup involves three main components:
 ## Prerequisites
 Before you begin, ensure you have the following installed:
 
-Python 3.8+
-Ollama: A local LLM server.
-UV
+- Python 3.8+
+- Ollama: A local LLM server.
+- UV
 
 ## Getting Started
 To run the full example, you need to start each component in a separate terminal.
